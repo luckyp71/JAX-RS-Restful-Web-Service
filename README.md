@@ -2,7 +2,7 @@
 
 A simple example on how to create Restful Web Service using JAX-RS.
 
-Requirements:
+Prerequisites:
 
 1. Netbeans 8.1
 2. Glassfish
